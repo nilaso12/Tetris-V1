@@ -11,6 +11,7 @@ sudo apt-get update -y
 sudo apt-get install jenkins -y
 sudo systemctl start jenkins
 sudo systemctl status jenkins
+sudo systemctl status jenkins
 
 #install docker
 sudo apt-get update
